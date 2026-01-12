@@ -40,4 +40,15 @@ This project uses real-world clinical data to analyze stroke risk factors and bu
 - SMOTE (imbalanced-learn)
 - Power BI / Tableau (visual analysis)
 
-## Repository Structure
+## Future Work
+- Incorporate additional clinical variables (medications, cholesterol, comorbidities)
+- Explore advanced models and threshold tuning
+- Improve recall for rare clinical events
+- Validate results on external healthcare datasets
+
+## Authors
+- Reshma Parchuri  
+- Biraj Shah  
+- Selome Tefera  
+- Thomas Xuan
+
